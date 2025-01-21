@@ -1,4 +1,4 @@
-<h1>Project-ping-pong-udp et Chat-en-ligne-TCP</h1>
+<h1>Project-ping-pong-UDP et Chat-en-ligne-TCP</h1>
 <strong>Description :</strong> <br>
 <p>Ce projet contient deux applications de communication réseau.</p>
 
@@ -9,7 +9,7 @@
 <h3>Project-ping-pong-udp :</h3> Utilise le protocole UDP (User Datagram Protocol) pour la communication entre le client et le serveur.<br>
 <h3>Chat-en-ligne-TCP :</h3> Utilise le protocole TCP (Transmission Control Protocol) pour la communication entre le client et le serveur.
 <h2>Prérequis :</h2>
-Avant d'exécuter le projet, assurez-vous d'avoir installé :
+<h3>Avant d'exécuter le projet, assurez-vous d'avoir installé :</h3>
 
-Un environnement de développement pour exécuter le code (par exemple, Python, Java, ou C).
-Une connexion réseau pour tester la communication entre les clients et les serveurs.
+<p>Un environnement de développement pour exécuter le code (par exemple, Python, Java, ou C).
+Une connexion réseau pour tester la communication entre les clients et les serveurs.</p>
