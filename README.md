@@ -11,5 +11,5 @@
 <h2>Prérequis :</h2>
 <h3>Avant d'exécuter le projet, assurez-vous d'avoir installé :</h3>
 
-<p>Un environnement de développement pour exécuter le code (par exemple, Python, Java, ou C).
+<p>Un environnement de développement pour exécuter le code (Python).
 Une connexion réseau pour tester la communication entre les clients et les serveurs.</p>
