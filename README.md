@@ -1,4 +1,4 @@
-<h1>Project-ping-pong-UDP et Chat-en-ligne-TCP</h1>
+<h1>Chat-en-ligne-TCP</h1>
 <strong>Description :</strong> <br>
 <p>Ce projet contient deux applications de communication réseau.</p>
 
