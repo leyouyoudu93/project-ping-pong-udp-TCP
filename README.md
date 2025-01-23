@@ -1,5 +1,5 @@
 # Serveur de Chat TCP
-
+<strong>Description :</strong><br>
 Ce fichier contient le code source du serveur pour une application de chat en ligne utilisant le protocole TCP. Le serveur est capable de gérer plusieurs connexions clients en parallèle et permet une communication fluide entre eux.
 
 ## Fonctionnalités :
