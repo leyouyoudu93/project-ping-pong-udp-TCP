@@ -1,15 +1,29 @@
-<h1>Project-ping-pong-UDP et Chat-en-ligne-TCP</h1>
+<h1>Serveur UDP et Client TCP</h1>
 <strong>Description :</strong> <br>
-<p>Ce projet contient deux applications de communication réseau.</p>
+<p>Ce projet contient deux applications de communication réseau basées sur des protocoles différents.</p>
 
-<h2>Project-ping-pong-udp :</h2>  Un simple jeu de ping-pong utilisant le protocole UDP pour envoyer des messages entre un client et un serveur. Le client envoie un message au serveur et le serveur renvoie un message de réponse, simulant ainsi un échange de ping-pong.
+<h2>Serveur UDP :</h2>
+Un serveur simple utilisant le protocole UDP pour recevoir des messages d'un ou plusieurs clients. Le serveur traite les requêtes de manière rapide et sans établir de connexion persistante.
 
-<h2>Chat-en-ligne-TCP :</h2>Un chat en ligne en utilisant le protocole TCP. Les utilisateurs peuvent se connecter au serveur et échanger des messages en temps réel.<br>
+<h2>Client TCP :</h2>
+Un client qui utilise le protocole TCP pour établir une connexion fiable et échanger des messages avec un serveur. Ce protocole garantit la livraison des données dans le bon ordre.
+
 <h2>Technologies :</h2>
-<h3>Project-ping-pong-udp :</h3> Utilise le protocole UDP (User Datagram Protocol) pour la communication entre le client et le serveur.<br>
-<h3>Chat-en-ligne-TCP :</h3> Utilise le protocole TCP (Transmission Control Protocol) pour la communication entre le client et le serveur.
+<h3>Serveur UDP :</h3> Utilise le protocole UDP (User Datagram Protocol) pour une communication rapide et sans connexion.<br>
+<h3>Client TCP :</h3> Utilise le protocole TCP (Transmission Control Protocol) pour une communication orientée connexion et fiable.
+
 <h2>Prérequis :</h2>
 <h3>Avant d'exécuter le projet, assurez-vous d'avoir installé :</h3>
 
-<p>Un environnement de développement pour exécuter le code (Python).
-Une connexion réseau pour tester la communication entre les clients et les serveurs.</p>
+<ul>
+  <li>Python 3.x</li>
+  <li>Une connexion réseau pour tester la communication entre les clients et les serveurs.</li>
+</ul>
+
+<h2>Utilisation :</h2>
+<h3>Serveur UDP :</h3>
+Lancez le serveur UDP avec la commande :
+<pre><code>python3 server_udp.py</code></pre>
+<h3>Client TCP :</h3>
+Lancez le client TCP avec la commande :
+<pre><code>python3 client_tcp.py</code></pre>
