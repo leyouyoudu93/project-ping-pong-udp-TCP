@@ -13,17 +13,4 @@ Un client qui utilise le protocole TCP pour établir une connexion fiable et éc
 <h3>Client TCP :</h3> Utilise le protocole TCP (Transmission Control Protocol) pour une communication orientée connexion et fiable.
 
 <h2>Prérequis :</h2>
-<h3>Avant d'exécuter le projet, assurez-vous d'avoir installé :</h3>
-
-<ul>
-  <li>Python 3.x</li>
-  <li>Une connexion réseau pour tester la communication entre les clients et les serveurs.</li>
-</ul>
-
-<h2>Utilisation :</h2>
-<h3>Serveur UDP :</h3>
-Lancez le serveur UDP avec la commande :
-<pre><code>python3 server_udp.py</code></pre>
-<h3>Client TCP :</h3>
-Lancez le client TCP avec la commande :
-<pre><code>python3 client_tcp.py</code></pre>
+<h4>Avant d'exécuter le projet, assurez-vous d'avoir installé les fonctionnalité :</h4>
